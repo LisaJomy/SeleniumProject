@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+      <class name="test.SeleniumTest">
+        <test-method status="PASS" signature="iosApps()[pri:0, instance:test.SeleniumTest@13deb50e]" name="iosApps" duration-ms="13" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method status="PASS" signature="nativeApps()[pri:0, instance:test.SeleniumTest@13deb50e]" name="nativeApps" duration-ms="3" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApps -->
+      </class> <!-- test.SeleniumTest -->
+      <class name="test.ApiumTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:test.ApiumTest@239963d8]" name="deleteTwitter" duration-ms="2" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:test.ApiumTest@239963d8]" name="postJira" duration-ms="4" started-at="2020-05-20T16:51:37Z" finished-at="2020-05-20T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- test.ApiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
